@@ -16,16 +16,18 @@ img {
   height:25%;
 }
 
-#tellyoumore{
+.tellyoumore{
   position: absolute;
   left: 100px;
-  font-family:Georgia, serif
+  font-family:Georgia, serif;
+  font-size:120%;
 }
 
-#areyoudone{
+.areyoudone{
   position: absolute;
   right: 100px;
-  font-family:Georgia, serif
+  font-family:Georgia, serif;
+  font-size:120%;
 }
 
 
