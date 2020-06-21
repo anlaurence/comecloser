@@ -16,6 +16,17 @@ img {
   height:25%;
 }
 
+#tellyoumore{
+  position: absolute;
+    left: 0px;
+}
+
+#areyoudone{
+  
+}
+
+
+
 /* LINK COLORS */
 a:link {
   color: white;
@@ -24,20 +35,20 @@ a:link {
 }
 
 a:visited {
-  color: pink;
+   color: white;
   background-color: transparent;
   text-decoration: none;
 }
 
 a:hover {
-  color: red;
+  color: white;
   background-color: transparent;
-  text-decoration: underline;
+  text-decoration: bold;
 }
 
 a:active {
-  color: yellow;
+  color: white;
   background-color: transparent;
-  text-decoration: underline;
+  text-decoration: none;
 }
 
