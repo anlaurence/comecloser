@@ -22,6 +22,11 @@ img {
   height:15%;
 }
 
+/*tile container*/
+
+
+/* Ombres*/
+
 .tellyoumore{
   position: absolute;
   left: 150px;
@@ -36,9 +41,7 @@ img {
   font-size:120%;
 }
 
-
-
-/* LINK COLORS */
+/* LINK COLORS*/
 a:link {
   color: white;
   background-color: transparent;
