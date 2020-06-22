@@ -22,10 +22,31 @@ img {
   height:15%;
 }
 
-/*tile container*/
+/*IMAGE GRID/
 
+* {
+  box-sizing: border-box;
+}
 
-/* Ombres*/
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0px;
+}
+
+/* Create four equal columns that sits next to each other */
+.column {
+  flex: 25%;
+  max-width: 25%;
+  padding: 0px;
+}
+
+.column img {
+  margin-top: 0px;
+  vertical-align: middle;
+}
+
+/*STORIES*/
 
 .tellyoumore{
   position: absolute;
