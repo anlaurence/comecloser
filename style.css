@@ -18,11 +18,11 @@ h2 {
 }
 
 img {
-  width:15%;
-  height:15%;
+  width:50%;
+  height:50%;
 }
 
-/*IMAGE GRID/
+/*IMAGE GRID*/
 
 * {
   box-sizing: border-box;
@@ -42,8 +42,9 @@ img {
 }
 
 .column img {
-  margin-top: 0px;
+  margin-top: 10px;
   vertical-align: middle;
+  horizontal-align: middle;
 }
 
 /*STORIES*/
