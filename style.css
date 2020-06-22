@@ -6,21 +6,27 @@ body {
 
 h1 {
   color: #ffffff;
-  font-family:Georgia, serif;
-  text-align:center;
-  font-size:50px;
+  font-family: Georgia, serif;
+  text-align: center;
+  font-size: 50px;
+  padding: 60px;
 }
 
 h2 {
   color: #ffffff;
-  font-family:Georgia, serif;
-  text-align:center;
+  font-family: Georgia, serif;
+  text-align: center;
+  padding: 30px;
+}
+
+p {
+  color: white;
+  
 }
 
 img {
-  width:50%;
-  height:50%;
-  
+  width: 50%;
+  height: 50%;
 }
 
 /*IMAGE GRID*/
@@ -50,18 +56,18 @@ img {
 
 /*STORIES*/
 
-.tellyoumore{
+.tellyoumore {
   position: absolute;
   left: 150px;
-  font-family:Georgia, serif;
-  font-size:120%;
+  font-family: Georgia, serif;
+  font-size: 120%;
 }
 
-.areyoudone{
+.areyoudone {
   position: absolute;
   right: 150px;
-  font-family:Georgia, serif;
-  font-size:120%;
+  font-family: Georgia, serif;
+  font-size: 120%;
 }
 
 /* LINK COLORS*/
@@ -72,7 +78,7 @@ a:link {
 }
 
 a:visited {
-   color: white;
+  color: white;
   background-color: transparent;
   text-decoration: none;
 }
